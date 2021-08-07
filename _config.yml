@@ -1,5 +1,5 @@
 # Site settings
-title: My Forest
+title: My Forest, my blog
 SEOTitle: Swordsman97 | Welcome to my forest
 header-img: img/Blog01.jpg
 email: swordsmanli@yeah.net
@@ -97,6 +97,6 @@ service-worker: true
 friends: [
     {
         title: "Swordsman_Q",
-        href: "http://bilibili.com"
+        href: "https://space.bilibili.com/517157992"
     }
 ]
