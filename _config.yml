@@ -4,7 +4,7 @@ SEOTitle: lishq | Welcome to my forest
 header-img: img/page02.jpg
 email: swordsmanli@yeah.net
 description: "Plant trees from now on."
-keyword: "Blog, Share, Record"
+keyword: "Blog, 博客, 李少权，个人博客"
 url: "http://swordsman97.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/swordsman97/swordsman97.github.io.git" # you code repository 
@@ -18,9 +18,10 @@ sidebar-avatar: /img/head01.jpg      # use absolute URL, seeing it's used in bot
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+zhihu_username:     swordsman
+github_username:    swordsman97
 bilibili_username:  Swordsman_Q
-#twitter_username:   qiubaiying
+#twitter_username:   
 
 
 
